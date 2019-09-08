@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Sukkah Hill Spirits</string>
+    <string name="imgDescription">Sukkah Hill Image</string>
+    <string name="txtPriceTitle">Bulk Price Calculator</string>
+    <string name="radEtrog">Etrog Liqueur</string>
+    <string name="radBesamim">Besamim Liqueur</string>
+    <string name="radCali">Cali Whiskey</string>
+    <string-array name="txtAmount">
+        <item>0-10</item>
+        <item>10-50</item>
+        <item>50-100</item>
+        <item>100+</item>
+    </string-array>
+    <string name="prompt">Choose Amount</string>
+    <string name="btnCalc">CALCULATE PRICE</string>
+    <string name="btnBook">BOOK A TOUR OF OUR FACILITIES</string>
+    <string name="txtSukkah">What is Sukkah Hill?</string>
+    <string name="txtInterview">An interview with KCRW\'s Good Food</string>
+    <string name="btnPlay">PLAY</string>
+</resources>
