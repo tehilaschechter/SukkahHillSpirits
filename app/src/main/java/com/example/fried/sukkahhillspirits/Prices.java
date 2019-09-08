@@ -51,7 +51,7 @@ public class Prices extends AppCompatActivity {
                     }
                 }
                 else if(besamim.isChecked()){
-                    if(amount.getSelectedItem().toString().equals("0-11")){
+                    if(amount.getSelectedItem().toString().equals("0-10")){
                         cost = besamimPrice;
                     }
                     else if(amount.getSelectedItem().toString().equals("10-50")){
